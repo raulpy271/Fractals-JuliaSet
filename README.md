@@ -9,7 +9,7 @@ in this case, the interaction function is: f(z) = z² + c
 
 ![fractal-image](https://raw.githubusercontent.com/raulpy271/Fractals-JuliaSet/master/juliaSet_C%3D(-0.382)%2B(0.618i)_q%3D100.png)
 
-## Julia Set, c = 0.78 * (cos(x) + i*sin(x)), x in [0, 2*pi]
+## Julia Set, c = 0.78 \* ( cos(x) +  i \* sin (x) ), x in [ 0, 2 \* pi ]
 
 I made this video with a similar algorithm using javascript and the canvas element.
 
